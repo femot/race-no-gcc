@@ -1,0 +1,3 @@
+package success
+
+func main() {}
